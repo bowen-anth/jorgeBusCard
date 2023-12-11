@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactDOM from "react-dom"
 import IconEmail from './components/icons/IconEmail.js'
 import IconLinkedin from './components/icons/IconLinkedin.js'
 

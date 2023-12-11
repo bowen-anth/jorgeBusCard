@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactDOM from "react-dom"
 import IconFacebook from './components/icons/IconFacebook.js'
 import IconGithub from './components/icons/IconGithub.js'
 import IconInstagram from './components/icons/IconInstagram.js'
