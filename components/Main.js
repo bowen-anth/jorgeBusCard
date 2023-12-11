@@ -1,6 +1,7 @@
 import React from 'react'
-import About from '/components/main/About.js'
-import Interests from '/components/main/Interests.js'
+import ReactDOM from "react-dom"
+import About from '../components/main/About.js'
+import Interests from '../components/main/Interests.js'
 
 export default function Main() {
     return (
