@@ -1,5 +1,5 @@
 import React from 'react'
-import IconEmail from '.icons/IconEmail.js'
+import IconEmail from './icons/IconEmail.js'
 import IconLinkedin from './icons/IconLinkedin.js'
 
 export default function Header() {
